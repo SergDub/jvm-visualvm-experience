@@ -44,7 +44,7 @@
         происходит уменьшение heap за счет работы Garbage Collector
 
 
-<img src="file:///C:/Users/Nina/Downloads/heap.jpg" />
+<img src="file:https://github.com/SergDub/jvm-visualvm-experience/blob/master/heap.jpg" />
 
 <img src="file:///C:/Users/Nina/Downloads/metaspace.jpg" />
 
