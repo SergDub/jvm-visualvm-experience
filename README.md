@@ -43,13 +43,6 @@
         объем heap и зарезервированной памяти растет (точка 6)
         происходит уменьшение heap за счет работы Garbage Collector
 
-<image src="/Users/Nina/Downloads/heap.jpg" alt="Текст с описанием картинки">
-
-
-
-<image src="/Users/Nina/Downloads/metaspace.jpg" alt="Текст с описанием картинки">
-
-
 ![](C:\Users\Nina\Downloads\heap.jpg)
 
 ![](C:\Users\Nina\Downloads\metaspace.jpg)
