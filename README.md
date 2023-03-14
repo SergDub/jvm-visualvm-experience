@@ -49,3 +49,7 @@
 <img src="file:///C:/Users/Nina/Downloads/metaspace.jpg" />
 
 
+        14:00:29.844: created
+        объем heap и зарезервированной памяти растет (точка 6)
+        происходит уменьшение heap за счет работы Garbage Collector
+
