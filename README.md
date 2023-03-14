@@ -48,3 +48,8 @@
 
 
 <image src="/Users/Nina/Downloads/metaspace.jpg" alt="Текст с описанием картинки">
+
+
+![](C:\Users\Nina\Downloads\heap.jpg)
+
+![](C:\Users\Nina\Downloads\metaspace.jpg)
