@@ -43,7 +43,7 @@
         объем heap и зарезервированной памяти растет (точка 6)
         происходит уменьшение heap за счет работы Garbage Collector
 
-
+![Image alt](https://github.com/SergDub/jvm-visualvm-experience/blob/master/heap.jpg)
 <img src="file:https://github.com/SergDub/jvm-visualvm-experience/blob/master/heap.jpg" />
 
 <img src="file:///C:/Users/Nina/Downloads/metaspace.jpg" />
